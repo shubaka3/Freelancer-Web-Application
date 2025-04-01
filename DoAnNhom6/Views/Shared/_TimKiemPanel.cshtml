@@ -1,0 +1,66 @@
+﻿@* 
+<form name="SearchForm" asp-action="Search" asp-controller="HangHoa">
+    <div class="container-fluid bg-primary mb-5 wow fadeIn" data-wow-delay="0.1s" style="padding: 35px;">
+        <div class="container">
+            <div class="row g-2">
+                <div class="col-md-10">
+                    <div class="row g-2">
+                        <div class="col-md-4">
+                            <input type="search" class="form-control border-0" placeholder="keywords" aria-describedby="searchButton" name="query" id="searchText">
+                        </div>
+                        <div class="col-md-4">
+                            <input type="search" class="form-control p-3" placeholder="Min price" aria-describedby="searchButton" name="minPrice" id="MinPrice">
+                            <input type="search" class="form-control p-3" placeholder="Max price" aria-describedby="searchButton" name="maxPrice" id="MaxPrice">
+                        </div>
+                        <div class="col-md-4">
+                            <select class="form-select border-0">
+                                <option selected>Khu Vực</option>
+                                <option value="1">Các Quận Trong TP</option>
+                                <option value="2">Ngoại ô thành phố</option>
+                                <option value="3">Tại nhà</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <button onclick="SearchForm.submit()" id="searchButton" class="btn btn-dark border-0 w-100">Search</button>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</form> *@
+<form name="SearchForm" asp-action="Search" asp-controller="HangHoa">
+<div class="container-fluid bg-primary mb-5 wow fadeIn" data-wow-delay="0.1s" style="padding: 35px; visibility: visible; animation-delay: 0.1s; animation-name: fadeIn;">
+    <div class="container">
+        <div class="row g-2">
+            <div class="col-md-10">
+                <div class="row g-2">
+                    <div class="col-md-4">
+                        <input type="text" class="form-control border-0" placeholder="Keyword">
+                    </div>
+                    <div class="col-md-4">
+                        <select class="form-select border-0">
+                            <option selected="">Category</option>
+                            <option value="1">Category 1</option>
+                            <option value="2">Category 2</option>
+                            <option value="3">Category 3</option>
+                        </select>
+                    </div>
+                    <div class="col-md-4">
+                        <select class="form-select border-0">
+                            <option selected="">Location</option>
+                            <option value="1">Location 1</option>
+                            <option value="2">Location 2</option>
+                            <option value="3">Location 3</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-dark border-0 w-100">Search</button>
+            </div>
+        </div>
+    </div>
+</div>
+</form>

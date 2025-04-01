@@ -1,0 +1,87 @@
+﻿@model IEnumerable<DoAnNhom6.Models.CongViec>﻿
+@{
+	ViewData["Title"] = "ProfileTD";
+}
+
+<div class="container">
+	<h2>Welcome @Context.User.Identity.Name</h2>
+	<button><a asp-action="DangXuat">Đăng xuất</a></button>
+    @* <button><a asp-action="SuaNV">Sửa Thông tin</a></button> *@
+    <button><a asp-controller="Momo" asp-action="PaymentPage">Mua Gói Tuyển Dụng</a></button>
+    <div class="row g-4 text-center align-items-center justify-content-center pt-4">
+                    <a asp-controller="HangHoa" asp-action="Create"><button type="submit" class="btn border-secondary py-3 px-4 text-uppercase w-100 text-primary">Đăng Bài Tuyển Dụng</button></a>
+                </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.MaCv)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MaKh)
+                </th>
+                  <th>
+                    @Html.DisplayNameFor(model => model.TenCv)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DiaChi)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MaLoai)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NgayDangBai)
+                </th>
+              
+                <th>
+                    @Html.DisplayNameFor(model => model.DonGia)
+                </th>
+              
+                <th>
+                    
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MaCv)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MaKh)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TenCv)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DiaChi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DiaChi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MaLoai)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NgayDangBai)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DonGia)
+                    </td>
+                    
+                    <td>
+                        <td>
+                        <a asp-action="UngTuyen" asp-route-id="@item.MaCv">Xem Full Nhân Viên Ứng Tuyển</a>  |
+                        <a asp-action="DanhSUT" asp-route-id="@item.MaCv">Xem Rút Gọn Thông tin Ứng Tuyển</a> 
+
+                      
+                    </td>
+                        
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

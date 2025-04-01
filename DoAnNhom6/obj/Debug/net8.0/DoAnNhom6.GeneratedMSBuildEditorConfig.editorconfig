@@ -1,0 +1,283 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DoAnNhom6
+build_property.RootNamespace = DoAnNhom6
+build_property.ProjectDir = C:\Đồ án nhóm chúng tao\DoAnNhom6\DoAnNhom6\DoAnNhom6\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Đồ án nhóm chúng tao\DoAnNhom6\DoAnNhom6\DoAnNhom6
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/BaoLoi/KhongCoQuyen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmFvTG9pXEtob25nQ29RdXllbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/HomeAdmin/DangNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmdOaGFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/HomeAdmin/DanhMucCongViec.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNDb25nVmllYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/HomeAdmin/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/HomeAdmin/SuaCongViec.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YUNvbmdWaWVjLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/HomeAdmin/ThemCongViecMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1Db25nVmllY01vaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/NhanViens/DanhMucNhanVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5zXERhbmhNdWNOaGFuVmllbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/NhanViens/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5zXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/NhanViens/SuaNV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5zXFN1YU5WLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/NhanViens/ThemNhanVienMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5zXFRoZW1OaGFuVmllbk1vaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/NhanViens/ThemQuen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5zXFRoZW1RdWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/NVKhachHang/DanhMucKhachHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTlZLaGFjaEhhbmdcRGFuaE11Y0toYWNoSGFuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/NVKhachHang/SuaNV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTlZLaGFjaEhhbmdcU3VhTlYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/QuanLy/DanhMucQL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUXVhbkx5XERhbmhNdWNRTC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Areas/Admin/Views/TrangChu/DanhMucTrangChu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVHJhbmdDaHVcRGFuaE11Y1RyYW5nQ2h1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Cart/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/HangHoa/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/HangHoa/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/HangHoa/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/HangHoa/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/HangHoa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/HangHoa/ProductItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxQcm9kdWN0SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/HangHoa/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/HangHoa/Them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxUaGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/HoaDons/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/HoaDons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/HoaDons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/HoaDons/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/HoaDons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Home/PageNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/KhachHang/DangKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERhbmdLeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/KhachHang/DangNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERhbmdOaGFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/KhachHang/DanhGia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERhbmhHaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/KhachHang/DanhSUT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERhbmhTVVQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/KhachHang/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/KhachHang/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXEZvcmdvdFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/KhachHang/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/KhachHang/ProfileTD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXFByb2ZpbGVURC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/KhachHang/ProfileUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXFByb2ZpbGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/KhachHang/Resetpassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXFJlc2V0cGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/KhachHang/SuaNV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXFN1YU5WLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/KhachHang/UngTuyen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXFVuZ1R1eWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/KhachHang/XemDScho.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXFhlbURTY2hvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Momo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9tb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Momo/PaymentCallBack.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9tb1xQYXltZW50Q2FsbEJhY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Momo/PaymentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9tb1xQYXltZW50UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Momo/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9tb1xQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Shared/Components/Cart/CartPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFxDYXJ0UGFuZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Shared/Components/MenuLoai/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudUxvYWlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Shared/_DanhSachHangHoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYW5oU2FjaEhhbmdIb2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Shared/_LayoutCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Shared/_TimKiemPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UaW1LaWVtUGFuZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Đồ án nhóm chúng tao/DoAnNhom6/DoAnNhom6/DoAnNhom6/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3bg06gh401

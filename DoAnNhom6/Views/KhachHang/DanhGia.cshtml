@@ -1,0 +1,39 @@
+﻿@model DoAnNhom6.Models.KhachHang
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "SuaNV";
+    // Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Dánh giá Nhân Viên</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="DanhGia">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MaKh" />
+
+            <div class="form-group">
+                <label asp-for="DanhGia" class="control-label"></label>
+                <select asp-for="DanhGia" class="form-control">
+                    <option value="1">Tệ</option>
+                    <option value="2">Bình Thường</option>
+                    <option value="3">Tốt</option>
+                </select>
+                <span asp-validation-for="DanhGia" class="text-danger"></span>
+            </div>
+       
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

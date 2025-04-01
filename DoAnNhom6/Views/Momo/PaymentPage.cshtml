@@ -1,0 +1,53 @@
+﻿<head>
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet" />
+    <link href="~/MomoCS/css/Payment.css" rel="stylesheet">
+    <title>Pricing component</title>
+</head>
+
+<body>
+    <header>
+        <h1>Our Pricing</h1>
+        <div class="toggle">
+            <label>Annually </label>
+            <div class="toggle-btn">
+                <input type="checkbox" class="checkbox" id="checkbox" />
+                <label class="sub" id="sub" for="checkbox">
+                    <div class="circle"></div>
+                </label>
+            </div>
+            <label> Monthly</label>
+        </div>
+    </header>
+    <div class="cards">
+        <div class="card shadow">
+            <ul>
+                <li class="pack">Basic</li>
+                <li id="basic" class="price bottom-bar">100.000 vđ</li>
+                <li class="bottom-bar">Đăng 3 bài viết trong 1 ngày</li>
+              @*   <input type="hidden" name="Amount" value="100000"> *@
+                <a  asp-action="Index" asp-route-id="100000" class="btn active-btn">Subscribe</a>
+            </ul>
+        </div>
+        <div class="card active">
+            <ul>
+                <li class="pack">Professional</li>
+                <li id="professional" class="price bottom-bar">300.000 vđ</li>
+                <li class="bottom-bar">Đăng 10 bài viết trong 1 ngày</li>
+              @*   <input type="hidden" name="Amount" value="300000"> *@
+                <a  asp-action="Index" asp-route-id="300000" class="btn active-btn">Subscribe</a>
+            </ul>
+        </div>
+        <div class="card shadow">
+            <ul>
+                <li class="pack">Master</li>
+                <li id="master" class="price bottom-bar">500.000 vđ</li>
+                <li class="bottom-bar">Đăng 10 bài viết trong 1 ngày</li>
+                @* <input type="hidden" name="Amount" value="500000"> *@
+                <li><a  asp-action="Index" asp-route-id="500000"  class="btn active-btn">Subscribe</a></li>
+            </ul>
+        </div>
+    </div>
+    <script src="~/MomoCS/js/Payment.js"></script>
+</body>

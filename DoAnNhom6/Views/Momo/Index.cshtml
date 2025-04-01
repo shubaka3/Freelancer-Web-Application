@@ -1,0 +1,50 @@
+﻿@model DoAnNhom6.Models.Momo.MomoExecuteResponseModel
+    ﻿
+@{
+    ViewData["Title"] = "Home Page";
+    var postUrl = "tich-hop-thanh-toan-momo-voi-asp-net-core-7d5e4hP";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Thanh toán Momo với .NET Core</h1>
+   
+
+    <div class="container">
+        <form action="/Momo/CreatePaymentUrl" id="frmCreateOrder" method="POST">
+            <div class="form-group">
+                <label for="FullName">Tên khách hàng</label>
+                <input class="form-control"
+                       id="FullName"
+                       name="FullName"
+                       type="text"
+                       value="Nguyen Van A">
+            </div>
+            <br />
+            <div class="form-group">
+                <label for="Amount">Số tiền: @Model.Amount</label>
+                <input hidden class="form-control"
+                       id="Amount"
+                       name="Amount"
+                       type="text"
+                       value="@Model.Amount">
+            </div>
+            <br />
+            <div class="form-group">
+                <label for="OrderInfo">Nội dung thanh toán</label>
+                <textarea class="form-control"
+                          cols="20"
+                          id="OrderInfo"
+                          name="OrderInfo"
+                          rows="2">Thanh toán tại Thien An Mon</textarea>
+            </div>
+            <br />
+            <button type="submit" class="btn btn-primary">Thanh toán (Checkout)</button>
+        </form>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+
+    });
+</script>

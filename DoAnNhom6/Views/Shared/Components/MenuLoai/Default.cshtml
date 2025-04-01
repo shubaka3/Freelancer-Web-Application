@@ -1,0 +1,42 @@
+﻿@model IEnumerable<DoAnNhom6.ViewModels.MenuLoaiVM>
+
+<!-- Vesitable Shop Start-->
+<div class="container-fluid vesitable">
+    <div class="container">
+        <center> <h1 class="mb-0">Tìm Kiếm Theo Danh Mục</h1></center>
+        <div class="owl-carousel vegetable-carousel justify-content-center">
+            @foreach (var item in Model)
+            {
+                <a asp-controller="HangHoa" asp-action="Index" asp-route-loai="@item.MaLoai">
+                <div class="border border-primary rounded position-relative vesitable-item">
+                    <center>
+
+                            <h3>@item.TenLoai</h3>
+                        
+                        <p>Số Lượng: (@item.SoLuong)</p>
+                            <div class="my-3">
+                            @{
+                                    if (item.DanhGia == null)
+                                    {
+                                        <p>Chưa có đánh giá</p>
+                                    }
+                                    else
+                                      {
+                                             for(int i = 1; i<= item.DanhGia; i++)
+                                         {
+                                            <i class="fas fa-star text-primary"></i>
+                                         } 
+                                    }
+                                   
+                                   
+                                }
+                            </div>
+                         
+                    </center>
+                </div>
+                </a>
+            }   
+        </div>
+    </div>
+</div>
+<!-- Vesitable Shop End -->

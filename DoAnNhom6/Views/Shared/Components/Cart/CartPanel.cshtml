@@ -1,0 +1,18 @@
+﻿@model DoAnNhom6.ViewModels.CartModel
+
+<div class="nav-item dropdown">
+    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Language</a>
+    <div class="dropdown-menu m-0">
+        <div id="google_translate_element"></div>
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+            }
+        </script>
+        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    </div>
+</div>
+<a asp-controller="Cart" asp-action="Index" class="position-relative me-4 my-auto">
+    <i class="fa fa-cloud" style="font-size:48px;color:red;"></i>
+    <span class="position-absolute bg-secondary rounded-circle d-flex align-items-center justify-content-center text-dark px-1" style="top: -5px; left: 15px; height: 20px; min-width: 20px;">@Model.Quantity</span>
+</a>

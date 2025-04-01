@@ -1,0 +1,74 @@
+﻿@model IEnumerable<DoAnNhom6.Models.CongViec>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "DanhMucCongViec";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh mục các sản phẩm</h1>
+    
+<p>
+    <a asp-action="ThemCongViecMoi" class="btn btn-primary">Create New</a>
+        @*  <a asp-action="DangNhap">Đăng Nhập</a> *@
+    <a asp-action="DownloadExcelJOB" asp-controller="HomeAdmin" class="btn btn-primary">Download Excel</a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                @Html.DisplayNameFor(model => model.TenCv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DonGia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hinh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayDangBai)
+            </th>
+           
+          
+          
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 0;
+            string @cls = "table-success";
+        }
+        @foreach (var item in Model) {
+            i = i + 1;
+            cls = "table-success";
+            if(i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            
+            <tr class="@cls">
+            <td>
+                @Html.DisplayFor(modelItem => item.TenCv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DonGia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayDangBai)
+            </td>
+            
+           
+            <td>
+                <a asp-action="SuaCongViec" asp-route-id="@item.MaCv">Edit</a> |
+                <a asp-action="Detail" asp-route-id="@item.MaCv">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaCv">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

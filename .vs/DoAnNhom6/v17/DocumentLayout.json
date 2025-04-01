@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\controllers\\congvieccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\controllers\\congvieccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\views\\khachhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\views\\khachhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\views\\hanghoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\views\\hanghoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\views\\hanghoa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\views\\hanghoa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\views\\khachhang\\xemdscho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\views\\khachhang\\xemdscho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\views\\hoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\views\\hoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\views\\hoadons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\views\\hoadons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\views\\hoadons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\views\\hoadons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\areas\\admin\\views\\homeadmin\\danhmuccongviec.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\areas\\admin\\views\\homeadmin\\danhmuccongviec.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\views\\hoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\views\\hoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\views\\hanghoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\views\\hanghoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\areas\\admin\\views\\homeadmin\\themcongviecmoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\areas\\admin\\views\\homeadmin\\themcongviecmoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\areas\\admin\\views\\homeadmin\\suacongviec.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\areas\\admin\\views\\homeadmin\\suacongviec.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\areas\\admin\\controllers\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\areas\\admin\\controllers\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\models\\webjobcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\models\\webjobcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\views\\khachhang\\profileuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\views\\khachhang\\profileuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|c:\\\u0111\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\doannhom6\\doannhom6\\doannhom6\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2631526E-D2AA-43CA-B108-6EABBBEA95B9}|DoAnNhom6\\DoAnNhom6.csproj|solutionrelative:doannhom6\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 510,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\KhachHang\\Details.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Views\\KhachHang\\Details.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\KhachHang\\Details.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Views\\KhachHang\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T04:25:22.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HangHoa\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Views\\HangHoa\\Edit.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HangHoa\\Edit.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Views\\HangHoa\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAawCcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T04:25:05.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HangHoa\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Views\\HangHoa\\Delete.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HangHoa\\Delete.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Views\\HangHoa\\Delete.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T04:24:48.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HoaDons\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Views\\HoaDons\\Edit.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HoaDons\\Edit.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Views\\HoaDons\\Edit.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAWwDwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T04:21:41.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HoaDons\\Details.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Views\\HoaDons\\Details.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HoaDons\\Details.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Views\\HoaDons\\Details.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAWwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T04:21:23.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HoaDons\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Views\\HoaDons\\Delete.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HoaDons\\Delete.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Views\\HoaDons\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAWwCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T04:21:20.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CongViecController.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Controllers\\CongViecController.cs",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Controllers\\CongViecController.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Controllers\\CongViecController.cs",
+              "RelativeToolTip": "DoAnNhom6\\Controllers\\CongViecController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T04:20:48.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DanhMucCongViec.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucCongViec.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucCongViec.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucCongViec.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucCongViec.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAWwEAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T04:19:00.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Views\\KhachHang\\Profile.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Views\\KhachHang\\Profile.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAWwDYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T13:11:56.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XemDScho.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\KhachHang\\XemDScho.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Views\\KhachHang\\XemDScho.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\KhachHang\\XemDScho.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Views\\KhachHang\\XemDScho.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAWwE4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T13:55:50.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Controllers\\CartController.cs",
+              "RelativeToolTip": "DoAnNhom6\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAswHgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:16:36.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HoaDons\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Views\\HoaDons\\Create.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HoaDons\\Create.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Views\\HoaDons\\Create.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAawCAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T04:21:14.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HangHoa\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Views\\HangHoa\\Create.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\HangHoa\\Create.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Views\\HangHoa\\Create.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAawCAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T04:21:00.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThemCongViecMoi.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Areas\\Admin\\Views\\HomeAdmin\\ThemCongViecMoi.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Areas\\Admin\\Views\\HomeAdmin\\ThemCongViecMoi.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Areas\\Admin\\Views\\HomeAdmin\\ThemCongViecMoi.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Areas\\Admin\\Views\\HomeAdmin\\ThemCongViecMoi.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAawCEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T04:20:23.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SuaCongViec.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Areas\\Admin\\Views\\HomeAdmin\\SuaCongViec.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Areas\\Admin\\Views\\HomeAdmin\\SuaCongViec.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Areas\\Admin\\Views\\HomeAdmin\\SuaCongViec.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Areas\\Admin\\Views\\HomeAdmin\\SuaCongViec.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAawCsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T04:19:09.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrangChuController.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Areas\\Admin\\Controllers\\TrangChuController.cs",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Areas\\Admin\\Controllers\\TrangChuController.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Areas\\Admin\\Controllers\\TrangChuController.cs",
+              "RelativeToolTip": "DoAnNhom6\\Areas\\Admin\\Controllers\\TrangChuController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T04:18:47.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "DoAnNhom6\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAswJ4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T04:18:35.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebJobContext.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Models\\WebJobContext.cs",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Models\\WebJobContext.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Models\\WebJobContext.cs",
+              "RelativeToolTip": "DoAnNhom6\\Models\\WebJobContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T04:17:13.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADkAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T13:44:46.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProfileUser.cshtml",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\KhachHang\\ProfileUser.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Views\\KhachHang\\ProfileUser.cshtml",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Views\\KhachHang\\ProfileUser.cshtml",
+              "RelativeToolTip": "DoAnNhom6\\Views\\KhachHang\\ProfileUser.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T12:43:39.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "DoAnNhom6\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n nh\u00F3m ch\u00FAng tao\\DoAnNhom6\\DoAnNhom6\\DoAnNhom6\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "DoAnNhom6\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAALwBAAAAAAAAAIAwwNEBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:34:40.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

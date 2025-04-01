@@ -1,0 +1,44 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model DoAnNhom6.Models.PhanQ
+
+@{
+    ViewData["Title"] = "ThemNhanVienMoi";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>ThemNhanVienMoi</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="ThemQuen">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdNhanVien" class="control-label"></label>
+                <input asp-for="IdNhanVien" class="form-control" />
+                <span asp-validation-for="IdNhanVien" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdChucNang" class="control-label"></label>
+                <select asp-for="IdChucNang" class="form-control">
+                    <option value="1">Thêm</option>
+                    <option value="2">Xóa</option>
+                    <option value="3">Sửa</option>
+                    <option value="4">Cấm</option>
+                </select>
+                <span asp-validation-for="IdChucNang" class="text-danger"></span>
+            </div>
+
+           
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
